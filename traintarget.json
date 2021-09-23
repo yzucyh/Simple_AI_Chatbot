@@ -1,0 +1,5 @@
+{"target":[
+{"tag": "hello",
+"patterns":["greetings", "hi", "it's a good day", "hello my friend" ],
+"response":["Hello", "Hey dude", "Something happened?"]}
+]}
